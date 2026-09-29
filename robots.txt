@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.fgnscv.cn/sitemap.xml
